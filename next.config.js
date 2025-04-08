@@ -1,6 +1,6 @@
 module.exports = {
     output: 'export',
-    basePath: '',
+    basePath: '/new',
     trailingSlash: true, // Optional, but good for consistency
   };
   
