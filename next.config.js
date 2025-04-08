@@ -1,6 +1,6 @@
 module.exports = {
     output: 'export',
-    basePath: '/my-nextjs-app',
+    basePath: '',
     trailingSlash: true, // Optional, but good for consistency
   };
   
